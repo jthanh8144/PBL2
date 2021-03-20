@@ -1,0 +1,4 @@
+D:\Down\BGI2010\bgi\Debug\bgi.exe
+D:\Down\BGI2010\bgi\Debug\bgi.pdb
+D:\DALT\DALT_Grap\Debug\bgi.exe
+D:\DALT\DALT_Grap\Debug\bgi.pdb

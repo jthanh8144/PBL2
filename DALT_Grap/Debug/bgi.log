@@ -1,0 +1,94 @@
+﻿  AccountAccessGrap.cpp
+D:\DALT\DALT_Grap\graphics.h(281,13): warning C4273: 'getch': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453,30): message : see previous definition of 'getch'
+D:\DALT\DALT_Grap\graphics.h(282,13): warning C4273: 'kbhit': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459,30): message : see previous definition of 'kbhit'
+D:\DALT\DALT_Grap\AccountAccessGrap.cpp(55,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\AccountAccessGrap.cpp(75,20): warning C4101: 'ChucVu': unreferenced local variable
+  DALT.cpp
+D:\DALT\DALT_Grap\graphics.h(281,13): warning C4273: 'getch': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453,30): message : see previous definition of 'getch'
+D:\DALT\DALT_Grap\graphics.h(282,13): warning C4273: 'kbhit': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459,30): message : see previous definition of 'kbhit'
+D:\DALT\DALT_Grap\DALT.cpp(8,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Grap.cpp
+D:\DALT\DALT_Grap\graphics.h(281,13): warning C4273: 'getch': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453,30): message : see previous definition of 'getch'
+D:\DALT\DALT_Grap\graphics.h(282,13): warning C4273: 'kbhit': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459,30): message : see previous definition of 'kbhit'
+D:\DALT\DALT_Grap\Grap.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+D:\DALT\DALT_Grap\Grap.cpp(22,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(52,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(64,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(99,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(120,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(162,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(240,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(314,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(339,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(364,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(389,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(419,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(445,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(475,19): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(505,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(583,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(608,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(635,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(662,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(687,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(712,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(746,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(871,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(896,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(921,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(946,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(971,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(996,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1021,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1046,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1073,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1101,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1128,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1155,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1180,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1205,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1229,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1253,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1277,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1301,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1359,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1453,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1478,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1507,19): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1552,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1621,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1646,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1671,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1697,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1727,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1768,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1803,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1818,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1884,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1914,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(1978,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2075,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2100,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2125,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2150,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2175,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2201,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2226,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2267,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2287,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2300,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2368,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2410,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2493,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2573,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\DALT\DALT_Grap\Grap.cpp(2623,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  HoaDonAccessGrap.cpp
+  Generating Code...
+D:\DALT\DALT_Grap\AccountAccessGrap.cpp(72): warning C4715: 'AccountAccessGrap::getChucVu': not all control paths return a value
+  bgi.vcxproj -> D:\DALT\DALT_Grap\Debug\bgi.exe
